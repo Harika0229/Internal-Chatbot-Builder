@@ -1,6 +1,6 @@
 INTERNAL CHATBOT BUILDER
 
-Internal Chatbot Builder is a tool designed for creating, managing, and testing rule-based conversational scripts for chatbots. It allows users to define datasets, intents, and responses, making it ideal for automating customer support and internal communications.
+Internal Chatbot Builder is a tool designed for creating, managing, and testing rule-based conversational scripts for chatbots of a particular organization. It allows users to define datasets, intents, and responses, making it ideal for automating customer support and internal communications.
 
 Key Features:
 
